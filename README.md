@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React.js, p5.js, UI/UX Design Fundamentals, and Tailwind CSS.**
 
-- 👨‍💻 All of my projects are available at [](#)
+<!-- - 👨‍💻 All of my projects are available at [](#) -->
 
 - 📫 How to reach me **ryangerome.regis@gmail.com**
 
-- 📄 Know about my experiences [](#)
+<!-- - 📄 Know about my experiences [](#) -->
 
 - ⚡ Fun fact **I love watching Anime and Minecraft YouTube Videos.**
 
