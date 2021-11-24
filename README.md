@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Gerome Regis.</h1>
-<h3 align="center">An Electronics Engineering major in Embedded Software Engineering Graduate<br>turned to Full-Stack Web Developer.</h3>
+<h3 align="center">An Electronics Engineering major in Embedded Software Engineering Graduate<br>turned Full-Stack Web Developer.</h3>
 
 - 🔭 I’m currently working on [ReWORX (Group Project)](https://github.com/ryanregis/ReWORX)
 
