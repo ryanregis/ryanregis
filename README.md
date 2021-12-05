@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [](#) -->
 
-- 📫 How to reach me **ryangerome.regis@gmail.com**
+- 📫 How to reach me **rgregis.contact@gmail.com**
 
 <!-- - 📄 Know about my experiences [](#) -->
 
