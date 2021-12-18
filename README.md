@@ -3,15 +3,15 @@
 
 <!-- - 🔭 I’m currently working on [ReWORX (Group Project)](https://github.com/ryanregis/ReWORX) -->
 
-- 🌱 I’m currently learning **React.js, p5.js, UI/UX Design Fundamentals, and Tailwind CSS.**
+- 🌱 I’m currently learning: **NodeJS, TypeScript, React.js using TypeScript, Laragon, PHP, Laravel, and UI/UX Design Fundamentals.**
 
 <!-- - 👨‍💻 All of my projects are available at [](#) -->
 
-- 📫 How to reach me **rgregis.contact@gmail.com**
+- 📫 How to reach me: **rgregis.contact@gmail.com**
 
 <!-- - 📄 Know about my experiences [](#) -->
 
-- ⚡ Fun fact **I love watching Anime and Minecraft YouTube Videos.**
+- ⚡ Fun fact: **I love watching Anime (especially Tensura) and Minecraft YouTube Videos.**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
