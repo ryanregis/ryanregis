@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [ReWORX (Group Project)](https://github.com/ryanregis/ReWORX) -->
 
-- 🌱 I’m currently learning: **NodeJS, TypeScript, React.js using TypeScript, Laragon, PHP, Laravel, and UI/UX Design Fundamentals.**
+- 🌱 I’m currently learning: **VueJS, NodeJS, ExpressJS Framework, and UI/UX Design Fundamentals.**
 
 <!-- - 👨‍💻 All of my projects are available at [](#) -->
 
